@@ -1,0 +1,6 @@
+kess_kiss_pass:
+    resource: "@KessKissPassBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+
